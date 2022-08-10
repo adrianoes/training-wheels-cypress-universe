@@ -6,7 +6,7 @@ it('selecionar a data de nascimento', function(){
     const date = {
         month: 'dez',
         day: '28',
-        year: '1989'
+        year: '1986'
     
       }
 
